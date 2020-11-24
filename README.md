@@ -22,4 +22,4 @@ Find API documentation in this [Github](https://github.com/nemanja-sta/REST-API-
 * Ability to refresh token.
 * JWT Tokens, make requests with a token after login with Authorization header with value Bearer user token where user token is the signed and encrypted token given in the response from the login process.
 
-### Find my project [here](https://documenter.getpostman.com/view/9887150/TVewa4zs#intro).
+### Find my project [here](https://documenter.getpostman.com/view/9887150/TVewa4zs).
