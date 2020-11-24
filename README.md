@@ -8,7 +8,7 @@ Project Skeleton was made by Daniel Avellaneda. Find it [here](https://github.co
 
 The server was running locally, so it is available on localhost:3000. Communication between API requests goes over environment variables.
 
-Find API documentation in this [Github]() folder.
+Find API documentation in this [Github](https://github.com/nemanja-sta/REST-API-testing/blob/main/documentation.yaml) folder.
 
 ## Tested features
 * Development environment ready.
